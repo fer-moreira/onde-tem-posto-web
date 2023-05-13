@@ -3,7 +3,6 @@
         {
             "id" : 1,
             "name" : "Shell Select",
-            "icon" : "https://i.postimg.cc/Vk9dPFXZ/marker-shell.png",
             "location" : {
                 "lat" : -22.931953,
                 "lng" : -43.635582
@@ -12,7 +11,6 @@
         {
             "id" : 2,
             "name" : "Posto Minister",
-            "icon" : "https://i.postimg.cc/Hk1VNN87/marker-petro.png",
             "location" : {
                 "lat" : -22.9168967,
                 "lng" : -43.6243947
@@ -21,7 +19,6 @@
         {
             "id" : 3,
             "name" : "Posto Via",
-            "icon" : "https://i.postimg.cc/Hk1VNN87/marker-petro.png",
             "location" : {
                 "lat" : -22.916048,
                 "lng" : -43.616641
@@ -30,7 +27,6 @@
         {
             "id" : 4,
             "name" : "Auto Posto Champion",
-            "icon" : "https://i.postimg.cc/Hk1VNN87/marker-petro.png",
             "location" : {
                 "lat" : -22.912083,
                 "lng" : -43.613978
@@ -39,7 +35,6 @@
         {
             "id" : 5,
             "name" : "Posto Petrobras",
-            "icon" : "https://i.postimg.cc/Hk1VNN87/marker-petro.png",
             "location" : {
                 "lat" : -22.9160044,
                 "lng" : -43.6110904
