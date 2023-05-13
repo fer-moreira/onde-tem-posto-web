@@ -69,8 +69,8 @@ export default function Map() {
             {
                 currentCordinates && (
                     <MapContainer ref={mapRef} center={currentCordinates} zoom={zoom} zoomControl={false} doubleClickZoom={false} >
-                        <TileLayer url={`https://{s}.basemaps.cartocdn.com/${style}/{z}/{x}/{y}${scale}.png`} />
-                        {/* <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" /> */}
+                        {/* <TileLayer url={`https://{s}.basemaps.cartocdn.com/${style}/{z}/{x}/{y}${scale}.png`} /> */}
+                        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
                         {/* <TileLayer url="http://{s}.tile.osm.org/{z}/{x}/{y}.png" /> */}
                         {/* <TileLayer url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}" /> */}
 
