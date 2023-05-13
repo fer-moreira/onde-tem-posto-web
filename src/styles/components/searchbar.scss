@@ -1,0 +1,64 @@
+.searchbox {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+
+    left: 0;
+    right: 0;
+    top: 60px;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items:  center;
+
+    padding: 5px 15px;
+    gap: 5px;
+
+    width: fit-content;
+    height: 65px;
+
+    border-radius: 20px;
+
+    background-color: $background_white;
+    @include drop_shadow;
+
+
+    &__button {
+        width: 48px;
+        height: 48px;
+        
+        @include reset_input;
+        
+        background-color: $background_white;
+
+        transition: 50ms background;
+
+        border-radius: 10px;
+
+        &:active {
+            background-color: $light_gray;
+        }
+    }
+
+    &__input {
+        max-width: 180px;
+
+        height: 48px;
+        outline: none;
+        border: none;
+        text-align: center;
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Poppins', sans-serif;
+
+        color: $dark_color;
+        background-color: $light_gray;
+
+        border-radius: 15px;
+
+        &::placeholder {
+            color: $placeholder_gray;
+        }
+    }
+
+}

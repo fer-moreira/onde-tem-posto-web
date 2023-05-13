@@ -1,0 +1,31 @@
+.localizator {
+    position: absolute;
+    z-index: 3;
+
+    height: 64px;
+    width: 64px;
+
+    @include drop_shadow;
+    @include reset_input;
+
+    border-radius: 360px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    right: 28px;
+    bottom: 28px;
+
+    background-color: $background_white;
+
+    &--img {
+        height: 24px;
+        width: 24px;
+    }
+    
+    &:active {
+        background-color: $light_gray;
+    }
+}

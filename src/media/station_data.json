@@ -1,0 +1,60 @@
+{
+    "name": "Minister Petrobras",
+    "icon": "https://i.imgur.com/uQGNoCa.jpg",
+    "rating": {
+        "stars": "4.2",
+        "total": "268",
+        "reviews": [
+            {
+                "id": 2,
+                "text": "Gasolina de qualidade",
+                "count": 167
+            },
+            {
+                "id": 4,
+                "text": "Instalações sujas ou mal conservadas",
+                "count": 32
+            },
+            {
+                "id": 4,
+                "text": "Frentistas atenciosos.",
+                "count": 58
+            }
+        ]
+    },
+    "location": {
+        "short": "Av. Cesário de Melo, 10371 - Paciência",
+        "lat": -22.9161223,
+        "lng": -43.6298941
+    },
+    "details": {
+        "distance": "1.83",
+        "active": "24"
+    },
+    "fuel_types": [
+        {
+            "key": 1,
+            "name": "Comum",
+            "price": "5,09",
+            "prefix": "L"
+        },
+        {
+            "key": 2,
+            "name": "Grid",
+            "price": "5,19",
+            "prefix": "L"
+        },
+        {
+            "key": 3,
+            "name": "Etanol",
+            "price": "4,49",
+            "prefix": "L"
+        },
+        {
+            "key": 4,
+            "name": "Diesel",
+            "price": "6,59",
+            "prefix": "L"
+        }
+    ]
+}

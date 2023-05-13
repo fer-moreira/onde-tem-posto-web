@@ -1,0 +1,8 @@
+@mixin drop_shadow {
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+@mixin reset_input {
+    border: none;
+    outline:  none;
+}

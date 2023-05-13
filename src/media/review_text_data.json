@@ -1,0 +1,112 @@
+{
+    "1": [
+        {
+            "id": 11,
+            "content": "Atendimento ruim"
+        },
+        {
+            "id": 12,
+            "content": "Falta de limpeza"
+        },
+        {
+            "id": 13,
+            "content": "Preços elevados"
+        },
+        {
+            "id": 14,
+            "content": "Combustível de má qualidade"
+        },
+        {
+            "id": 15,
+            "content": "Loja de conveniência pequena"
+        }
+    ],
+    "2": [
+        {
+            "id": 21,
+            "content": "Atendimento regular"
+        },
+        {
+            "id": 22,
+            "content": "Limpeza básica"
+        },
+        {
+            "id": 23,
+            "content": "Preços razoáveis"
+        },
+        {
+            "id": 24,
+            "content": "Combustível aceitável"
+        },
+        {
+            "id": 25,
+            "content": "Loja de conveniência limitada"
+        }
+    ],
+    "3": [
+        {
+            "id": 31,
+            "content": "Atendimento satisfatório"
+        },
+        {
+            "id": 32,
+            "content": "Instalações limpas"
+        },
+        {
+            "id": 33,
+            "content": "Preços competitivos"
+        },
+        {
+            "id": 34,
+            "content": "Combustível de boa qualidade"
+        },
+        {
+            "id": 35,
+            "content": "Loja de conveniência normal"
+        }
+    ],
+    "4": [
+        {
+            "id": 41,
+            "content": "Atendimento bom"
+        },
+        {
+            "id": 42,
+            "content": "Instalações bem conservadas"
+        },
+        {
+            "id": 43,
+            "content": "Preços justos"
+        },
+        {
+            "id": 44,
+            "content": "Combustível de alta qualidade"
+        },
+        {
+            "id": 45,
+            "content": "Loja de conveniência boa"
+        }
+    ],
+    "5": [
+        {
+            "id": 51,
+            "content": "Atendimento excepcional"
+        },
+        {
+            "id": 52,
+            "content": "Instalações impecáveis"
+        },
+        {
+            "id": 53,
+            "content": "Preços competitivos"
+        },
+        {
+            "id": 54,
+            "content": "Combustível de primeira linha"
+        },
+        {
+            "id": 55,
+            "content": "Loja de conveniência grande"
+        }
+    ]
+}
